@@ -1,0 +1,13 @@
+# Editors
+.idea
+.vscode
+
+# Executables
+leap
+leap.exe
+
+# Config
+config.json
+
+# Bulletin file
+bulletinC.txt

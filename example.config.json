@@ -1,0 +1,5 @@
+{
+  "gotify_url": "https://gotify.example.com",
+  "gotify_token": "abcdefghijklmno",
+  "file_path": "bulletinC.txt"
+}

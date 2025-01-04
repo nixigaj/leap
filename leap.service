@@ -1,0 +1,13 @@
+[Unit]
+Description=IERS Bulletin C Update message daemon
+After=network.target
+
+[Service]
+User=leap
+ExecStart=/var/lib/leap/leap/leap
+WorkingDirectory=/var/lib/leap/leap
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
