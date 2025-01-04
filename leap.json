@@ -1,1 +1,38 @@
-{"utc_to_tai_offset":-37,"next_leap_specified":false,"next_leap":"0000-00-00"}
+[
+  {
+    "utc_date": "2017-01-01",
+    "utc_to_tai_offset": -37
+  },
+  {
+    "utc_date": "2015-07-01",
+    "utc_to_tai_offset": -36
+  },
+  {
+    "utc_date": "2012-07-01",
+    "utc_to_tai_offset": -35
+  },
+  {
+    "utc_date": "2009-01-01",
+    "utc_to_tai_offset": -34
+  },
+  {
+    "utc_date": "2006-01-01",
+    "utc_to_tai_offset": -33
+  },
+  {
+    "utc_date": "1999-01-01",
+    "utc_to_tai_offset": -32
+  },
+  {
+    "utc_date": "1997-07-01",
+    "utc_to_tai_offset": -31
+  },
+  {
+    "utc_date": "1996-01-01",
+    "utc_to_tai_offset": -30
+  },
+  {
+    "utc_date": "1994-07-03",
+    "utc_to_tai_offset": -29
+  }
+]
